@@ -1,0 +1,8 @@
+{
+    "todoist_token": "MYTOKEN",
+    "projects_to_exclude": [
+        "PROJECT1",
+        "PROJECT2",
+        "PROJECT3"
+    ]
+}

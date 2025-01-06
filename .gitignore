@@ -1,0 +1,17 @@
+# Ignore CSV files
+*config.json
+
+# Ignore CSV files
+*.csv
+
+# Ignore PNG files
+*.png
+!todoist_project_analysis_example.png
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
