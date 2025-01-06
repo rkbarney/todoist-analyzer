@@ -67,7 +67,7 @@ The Todoist Task Analyzer is a tool designed to export, process, and visualize t
 After running the analysis script, you will get the following files:
 - todoist_tasks_latest.csv: Contains the exported tasks with details such as task name, project ID, status, completion date, etc.
 - todoist_project_analysis.png: Visual representation of the task data.
-![Completed Tasks by Project](todoist_project_analysis.png)
+![Completed Tasks by Project](todoist_project_analysis_example.png)
 
 ## Conclusion
 
